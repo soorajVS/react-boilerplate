@@ -1,0 +1,4 @@
+React boilerplate code to understand webpack, babel etc. without using create-react-app
+
+Thanks to the article https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32
+This project is a step by step creation or react boilerplate code as explained in the article.
